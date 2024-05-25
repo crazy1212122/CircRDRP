@@ -26,9 +26,9 @@ In this study, we put forward a new benchmark dataset, which consists of ncRNADr
 - drug-dis.csv: It is the proved 0-1 association matrix between the drugs and diseases in our dataset, and it is recorded as $A_{drug-dis}\in R^{27*30}$.
 - drugname.xlsx: It includes all the drugs' names used in our dataset and they are listed in order.
 
-Due to the GitHub's file size limitation we put our dataset in this link[]
+Due to the GitHub's file size limitation, we put our dataset in a .zip file.
 
-As for the process procedure, please see our paper in detail.Meanwhile, in our experiment , we also utilized the dataset from another paper [[Predicting circRNA-drug resistance associations based on a multimodal graph representation learning framework](https://ieeexplore.ieee.org/abstract/document/10195936/)] and their dataset are also put in *../dataset/Another_dataset*.
+As for the process procedure, please see our paper in detail. Meanwhile, in our work, we also utilized the dataset from another paper [[Predicting circRNA-drug resistance associations based on a multimodal graph representation learning framework](https://ieeexplore.ieee.org/abstract/document/10195936/)] and their dataset are also put in *../dataset/Another_dataset* (if you unzip our dataset.zip package).
 
 
 
