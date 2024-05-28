@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is the implementation of our paper **[ with link ]** (which has submitted to XXXX journal). It offers a new and effective method in CircRNA and drug resistance  associations'  prediction based on GNN networks. We showed the code of our CircRDRP model.
+This is the implementation of our paper. It offers a new and effective method in CircRNA and drug resistance  associations'  prediction based on GNN networks. We showed the code of our CircRDRP model.
 
-[ 放一张流程图 ]
+For details, please see our paper (under review, paper details will be updated after acceptance).
 
 ## Folder
 
