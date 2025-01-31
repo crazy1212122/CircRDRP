@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is the implementation of our paper. It offers a new and effective method in CircRNA and drug resistance  associations'  prediction based on GNN networks. We showed the code of our CircRDRP model.
+This is the implementation of our paper"Integrative Graph-Based Framework for Predicting circRNA Drug Resistance Using Disease Contextualization and Deep Learning". It offers a new and effective method in CircRNA and drug resistance  associations'  prediction based on GNN networks. We showed the code of our CircRDRP model.
 
-For details, please see our paper (under review, paper details will be updated after acceptance).
+For details, please see our paper by https://ieeexplore.ieee.org/abstract/document/10670305, which has been accepted by IEEE Journal of Biomedical and Health Informatics.
 
 ## Folder
 
